@@ -13,7 +13,7 @@ var keys = {
   'private': '4e08c678656e49128e58277a17c13b34'
 }
 
-var url = 'https://captiony-spotify.herokuapp.com'
+var url = 'https://knack-spotify.herokuapp.com'
 
 var music_api_key = '987d7ecb2f8a2bd10928d61d9a424081';
 
